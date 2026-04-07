@@ -12,3 +12,5 @@ Modern website for a winery in Kefalonia.
 - HTML
 - CSS
 - JavaScript
+
+Designed & Developed by Zynora Labs
